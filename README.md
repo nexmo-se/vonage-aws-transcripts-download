@@ -1,6 +1,6 @@
 # Vonage Video API Medical Transcryption Analysis
 
-This application shows how to integrate the Vonage Video API with AWS Medical transcription and Medical comprehend APIs to build a video conferencing application that performs a medical analysis on every user's speech with a focus on medical terms.
+This application shows how to integrate the Vonage Video API with AWS transcription APIs to build a video conferencing application that provides captioning on every user's speech and gives the ability to download transcripts after the call.
 
 ## Prerequisites
 
